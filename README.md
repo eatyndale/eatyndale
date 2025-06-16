@@ -6,7 +6,7 @@
 
 I'm a multi-hyphenate builder passionate about creating tools that work for people — blending **product thinking**, **data analytics**, and **human-centered AI** to solve meaningful problems at scale.
 
-By day, I lead the Recruitment, Exit, Confirmation & Onboarding (RECO) product suite at **SeamlessHR**, crafting solutions that empower organizations across Africa.
+By day, I lead the Recruitment, Exit, Confirmation & Onboarding (RECO) product suites at **SeamlessHR**, crafting solutions that empower organizations across Africa.
 
 By night (and during MSc lectures), I dive into **data science**, exploring everything from **predictive modeling** to **optimization**, **NLP**, and **ethical AI design**.
 
